@@ -9,6 +9,5 @@ env/
 .DS_Store
 Thumbs.db
 
-*.gif
 *.html
 test_output/
