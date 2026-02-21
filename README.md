@@ -10,6 +10,9 @@
 [![Pillow](https://img.shields.io/badge/Pillow-10.0+-EE7724?style=for-the-badge)](https://python-pillow.org/)
 [![License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Win%20|%20macOS%20|%20Linux-888?style=for-the-badge)]()
+
+---
+
 <img src="demo.gif" alt="GIF to ASCII Demo" width="600">
 
 </div>
